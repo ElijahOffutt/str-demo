@@ -1,8 +1,10 @@
 <template>
     <main id="app-container">
-        <!-- ThreeDBackground -->
-        <LoadingSpinner v-if="!loaded" />
-        <Login />
+        <v-container>
+            <v-row>
+                
+            </v-row>
+        </v-container>
     </main>
 </template>
 

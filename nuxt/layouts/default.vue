@@ -1,7 +1,9 @@
 <template>
-    <main id="main">
-        <slot />
-    </main>
+   <body>
+    <NavHeader />
+    <Nuxt />
+    <NavFooter />
+   </body>
 </template>
 
 <style lang="scss">
